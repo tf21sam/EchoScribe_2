@@ -19,3 +19,17 @@ Chroma stores all those chunks in vector format (basically, numerical magic).
 
 🤖 Step 7 – Ask it anything
 You ask a question like “What is GitHub?” and boom! It finds the most relevant parts of the transcript and gives you an answer like a very focused intern who actually watched the video.
+
+
+
+🛠️ What Tech Is Used?
+
+    FastAPI — Our backend boss.
+
+    Streamlit — For the smooth user interface.
+
+    Whisper — The transcription hero.
+
+    ChromaDB + SentenceTransformers — For embeddings & search.
+
+    yt_dlp + ffmpeg + pydub — The media mafia.
