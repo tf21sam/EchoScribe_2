@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+whisper
+yt_dlp
+pydub
+chromadb
+sentence-transformers
